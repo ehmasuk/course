@@ -1,4 +1,4 @@
-const coursesData = [
+[
     {
         "id":1,
         "title": "Introduction to Sculpting in Blender for Absolute Beginners",
@@ -8115,7 +8115,3 @@ const coursesData = [
         "updated": "Last updated 7/2023"
     }
 ]
-
-
-
-export default coursesData;
